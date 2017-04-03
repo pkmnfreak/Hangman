@@ -3,7 +3,7 @@
 ## Description ##
 An iOS application for the Hangman game. Users are able to start a game, make guesses for a phrase (list of phrases are buildings on the UC Berkeley campus), see their progresses toward the phrase, see a list of previously guessed, incorrect letters, see how many guesses they have left (indicated by a hangman image), be alerted of a win or loss, and start a new game.
 
-<img src: https://github.com/pkmnfreak/Hangman/blob/master/README-images/hangman1.png >
+<img src=https://github.com/pkmnfreak/Hangman/blob/master/README-images/hangman1.png width = "350" >
 
 ###  Hangman Game View ###
 * A UILabel that displays the "_"s corresponding to each word in the provided puzzle string
